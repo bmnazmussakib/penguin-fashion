@@ -1,0 +1,207 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    margin: 150px 0;
+}
+
+/* Header start */
+.logo{
+    width: 30%;
+}
+
+.logo img{
+    width: 100%;
+}
+
+.menu{
+    margin-left: auto;
+}
+/* Header end */
+
+
+/* Banner start */
+
+.banner-head{
+    margin: 50px 0 0 0;
+    font-family: Bebas Neue;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 80px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 416px;
+    color: #363958;
+}
+
+.banner-head span{
+    color: #FABE4C;
+}
+
+.banner-text{
+    margin: 10px 0;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 357px;
+}
+
+.buy-now{
+    height: 60px;
+    width: 170px;
+    left: 135px;
+    top: 424px;
+    border-radius: 10px!important;
+    background: rgba(164, 188, 70, 1)!important;
+    color: #ffffff;
+    border: none !important;
+    text-transform: uppercase !important;
+    font-family: Roboto;
+}
+
+.banner {
+}
+
+.banner-img{
+    position: relative;
+    margin-top: 100px;
+    margin-bottom: 600px;
+}
+
+.model-bg{
+    position: absolute;
+    width: 30rem;
+}
+
+.model{
+    position: absolute;
+    width: 30rem;
+    top: -220px;
+    left: 10px;
+}
+
+
+/* Banner end */
+
+
+/* Cart start */
+.card-head{
+    font-family: Bebas Neue;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #363958;
+}
+
+.card {
+    border: none !important;
+}
+.card-img {
+    width: 70%;
+    background-color: #f1f1f1;
+    /* border: 1px solid red; */
+    border-radius: 10px !important;
+}
+
+.card-img img{
+    width: 100%;
+}
+
+.card-title {
+}
+
+.card-title h5{
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #363958;
+
+}
+
+.card-text {
+}
+
+.card-text p{
+    width: 299px;
+    height: 52px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    color: #3E3E3E;
+}
+
+.price{
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 42px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FABE4C;
+}
+
+.card-buy-now{
+    height: 50px !important;
+    width: 130px !important;
+    left: 135px;
+    top: 424px;
+    border-radius: 10px!important;
+    background: rgba(164, 188, 70, 1)!important;
+    color: #ffffff;
+    border: none !important;
+    text-transform: uppercase !important;
+    font-family: Roboto;
+}
+/* Cart end */
+
+/* Service start */
+.service-card-img {
+
+}
+
+.service-card-body {
+    
+}
+
+.service-card-body h5{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 28px;
+    color: #363958;
+}
+
+.card-title {
+}
+
+.card-text {
+}
+
+.service-card-body p{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #3E3E3E;
+}
+/* Service end */
